@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
     {
         if (Keyboard.current.mKey.wasPressedThisFrame)
         {
-            moedas++
+            //moedas++
                 
         }
     }

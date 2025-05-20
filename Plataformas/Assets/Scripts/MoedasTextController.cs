@@ -13,6 +13,6 @@ public class MoedasTextController : MonoBehaviour
 
     private void OnEnable()
     {
-        PlayerObserverManager.
+        //PlayerObserverManager;
     }
 }
